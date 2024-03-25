@@ -1,6 +1,6 @@
 [submodule "l2geth"]
 	path = l2geth
-	url = https://github.com/scroll-tech/go-ethereum
+	url = https://github.com/pwang200/go-ethereum
 [submodule "contracts/lib/ds-test"]
 	path = contracts/lib/ds-test
 	url = https://github.com/dapphub/ds-test
